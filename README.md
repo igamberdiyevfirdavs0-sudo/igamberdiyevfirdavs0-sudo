@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there, I'm Firdavs! 👋
 
-<!--
-**igamberdiyevfirdavs0-sudo/igamberdiyevfirdavs0-sudo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a self-taught developer with hands-on experience working on real-world projects. I love turning creative ideas into functional digital products.
 
-Here are some ideas to get you started:
+### 🚀 What I Do
+- **Web Development:** I know Frontend development (**HTML & CSS**) and excel at **AI-assisted full-stack coding**, allowing me to build complete, working websites quickly.
+- **Programming & Data Analytics:** I know **Python** and **Excel**, and I am currently learning **Data Analytics** along with **SQL** and **Power BI**.
+- **Experience & Teamwork:** Former **Manager at Maab Academy** with practical experience contributing to **real-world projects**, bringing strong organizational and problem-solving skills to any team.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills & Tools
+- **Frontend & Web:** HTML, CSS, AI-Driven Full-Stack Development
+- **Programming & Data:** Python, Excel, SQL (learning), Power BI (learning)
+
+### 🎯 Current Focus
+- Building functional projects.
+- Deepening my knowledge in Python, SQL, and Power BI for data analysis.
+
+### 📫 Contact Me
+- **Telegram:** [@Firdavs_1622](https://t.me/Firdavs_1622)
+
